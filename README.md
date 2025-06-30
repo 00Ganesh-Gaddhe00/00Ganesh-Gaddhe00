@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @00Ganesh-Gaddhe00
+- 👋 Hi, I’m Ganesh Gaddhe
 - 👀 I’m interested in Full-Stack Development and Innovative Tech Solutions
 - 🌱 I’m currently learning Advanced Software Development Techniques and Exploring Emerging Technologies
 - 💞️ I’m looking to collaborate on Open Source Projects, Startups, and Tech Innovations
